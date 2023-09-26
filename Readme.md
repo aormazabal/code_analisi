@@ -1,4 +1,4 @@
-# Analisi de código con dos entornos python
+# Análisis de código con dos entornos python
 
 Este manual nos ayudará a construir un espacio para poder revisar código python con pylint, concretamente utilizamos una librería especial llamada
 pylint_runner que nos permite hacer un análisis recursivo de todos los ficheros dentro de un paquete.
