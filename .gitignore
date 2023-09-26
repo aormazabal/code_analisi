@@ -2,3 +2,4 @@ venv*/*
 plone4/*
 plone6/*
 !.pylintrc
+RESUMEN*
