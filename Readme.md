@@ -1,7 +1,7 @@
 # Analisi de código con dos entornos python
 
-Este manual nos ayudarà a construir un espacio para poder revisar código python con pylint, concretamente utilizamos una libreria especial llamada
-pylint_runner que nos permite hacer un analisi recursivo de todos los ficheros dentro de un paquete.
+Este manual nos ayudará a construir un espacio para poder revisar código python con pylint, concretamente utilizamos una librería especial llamada
+pylint_runner que nos permite hacer un análisis recursivo de todos los ficheros dentro de un paquete.
 
 *Al trabajar con dos entornos y en especial el de Python 2.7 es la única que he encontrado con esta característica recursiva.*
 
@@ -16,13 +16,13 @@ pip3.8 install virtualenv==20.19.0
 pip3.8 install -U pip
 ```
 
-### Instalar versiones de Python necessarias con pyenv
+### Instalar versiones de Python necesarias con pyenv
 
-Comprovamos las versiones actuales que tenemos
+Comprobamos las versiones actuales que tenemos
 
 ```pyenv versions```
 
-Necessitamos Python 2.7.18 y 3.11.2
+Necesitamos Python 2.7.18 y 3.11.2
 
 Buscamos las versiones para Python 3.11 y python 2.7 si no las tenemos instaladas
 
@@ -63,7 +63,7 @@ pip install pylint-runner==0.6.0
 deactivate
 ```
 
-## Uso de la libreria
+## Uso de la librería
 
 ### Para analizar paquete de python 2.7
 
